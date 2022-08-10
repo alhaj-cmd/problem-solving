@@ -1,3 +1,5 @@
+//p-1: Write a function to check odd or even numver.
+
 // check even or odd with return
 
 function checkEvenOdd(num){
